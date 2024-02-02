@@ -2,7 +2,7 @@ import MovieItem from "./MovieItem";
 import Spinner from "react-bootstrap/Spinner";
 //
 import { useContext } from "react";
-import { ThemeContext } from "../context/ThemeContext";
+import { ThemeContext } from "../context/ThemeContextt";
 
 function MoviesList({ movies }) {
 
